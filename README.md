@@ -5,7 +5,7 @@ Volksparkstadion Hamburg. An diesen Tagen ist die Uwe-Seeler-Allee für den
 öffentlichen Verkehr gesperrt, was Navigations-Apps oft nicht anzeigen.
 
 ## Abonnieren
-Kalender-URL: https://<benutzername>.github.io/volkspark-kalender/volkspark.ics
+Kalender-URL: https://mightymoonmaker.github.io/volkspark-kalender/volkspark.ics
 
 Google Kalender: Andere Kalender > Per URL > Adresse einfügen.
 
